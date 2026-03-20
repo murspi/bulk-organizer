@@ -1,0 +1,5 @@
+# This project uses only Python standard library modules.
+# No external dependencies are required.
+
+# Included here for clarity and future maintainability.
+# Python 3.10+ recommended for pathlib and typing features.
