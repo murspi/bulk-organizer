@@ -28,4 +28,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/murspi/bulk-organizer.git
-cd <bulk-organizer>
+cd bulk-organizer
