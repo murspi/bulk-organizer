@@ -1,0 +1,57 @@
+2026-03-20 00:30:58,803 - INFO - Undo mode activated. Restoring files to the main folder.
+2026-03-20 00:30:58,804 - INFO - Processing folder: exe
+2026-03-20 00:30:58,804 - INFO - Restoring Git-2.52.0-64-bit.exe -> C:\bulk-check\Git-2.52.0-64-bit.exe
+2026-03-20 00:30:58,805 - INFO - Restoring Install League of Legends na.exe -> C:\bulk-check\Install League of Legends na.exe
+2026-03-20 00:30:58,805 - INFO - Restoring Install VALORANT.exe -> C:\bulk-check\Install VALORANT.exe
+2026-03-20 00:30:58,805 - INFO - Removing empty folder: exe
+2026-03-20 00:30:58,805 - INFO - Processing folder: jpg
+2026-03-20 00:30:58,806 - INFO - Restoring download (1).jpg -> C:\bulk-check\download (1).jpg
+2026-03-20 00:30:58,806 - INFO - Restoring download (2).jpg -> C:\bulk-check\download (2).jpg
+2026-03-20 00:30:58,807 - INFO - Restoring download (3).jpg -> C:\bulk-check\download (3).jpg
+2026-03-20 00:30:58,807 - INFO - Restoring download (4).jpg -> C:\bulk-check\download (4).jpg
+2026-03-20 00:30:58,808 - INFO - Restoring download (5).jpg -> C:\bulk-check\download (5).jpg
+2026-03-20 00:30:58,808 - INFO - Restoring download.jpg -> C:\bulk-check\download.jpg
+2026-03-20 00:30:58,808 - INFO - Restoring Henry Winter aesthetic — The Secret History.jpg -> C:\bulk-check\Henry Winter aesthetic — The Secret History.jpg
+2026-03-20 00:30:58,809 - INFO - Restoring Komaru Skyrim.jpg -> C:\bulk-check\Komaru Skyrim.jpg
+2026-03-20 00:30:58,809 - INFO - Restoring Warrior's Art.jpg -> C:\bulk-check\Warrior's Art.jpg
+2026-03-20 00:30:58,810 - INFO - Restoring zanoh.jpg -> C:\bulk-check\zanoh.jpg
+2026-03-20 00:30:58,810 - INFO - Removing empty folder: jpg
+2026-03-20 00:30:58,810 - INFO - Processing folder: pdf
+2026-03-20 00:30:58,811 - INFO - Restoring I-131 UHP Reparole Approval With EAD (1).pdf -> C:\bulk-check\I-131 UHP Reparole Approval With EAD (1).pdf
+2026-03-20 00:30:58,811 - INFO - Restoring I-131 UHP Reparole Approval With EAD.pdf -> C:\bulk-check\I-131 UHP Reparole Approval With EAD.pdf
+2026-03-20 00:30:58,811 - INFO - Restoring I-131.pdf -> C:\bulk-check\I-131.pdf
+2026-03-20 00:30:58,812 - INFO - Removing empty folder: pdf
+2026-03-20 00:30:58,812 - INFO - Processing folder: Telegram Desktop
+2026-03-20 00:30:58,812 - INFO - Restoring Conditional%20Approval%20-%20Parole%20Fee.pdf -> C:\bulk-check\Conditional%20Approval%20-%20Parole%20Fee.pdf
+2026-03-20 00:30:58,813 - INFO - Restoring DynamicPdfViewer.pdf -> C:\bulk-check\DynamicPdfViewer.pdf
+2026-03-20 00:30:58,813 - INFO - Restoring MN_HumanaExtend5000pdf.pdf -> C:\bulk-check\MN_HumanaExtend5000pdf.pdf
+2026-03-20 00:30:58,813 - INFO - Restoring Parole%20Fee%20Receipt%20Notice.pdf -> C:\bulk-check\Parole%20Fee%20Receipt%20Notice.pdf
+2026-03-20 00:30:58,814 - INFO - Restoring Resume.pdf -> C:\bulk-check\Resume.pdf
+2026-03-20 00:30:58,814 - INFO - Removing empty folder: Telegram Desktop
+2026-03-20 00:30:58,814 - INFO - Undo complete.
+2026-03-20 00:31:33,723 - INFO - Scanning only top-level directory.
+2026-03-20 00:31:33,724 - INFO - Files detected:
+2026-03-20 00:31:33,724 - INFO - 2025: 4 files
+2026-03-20 00:31:33,724 - INFO - 2026: 18 files
+2026-03-20 00:31:33,725 - WARNING - Skipping (already exists): Conditional%20Approval%20-%20Parole%20Fee.pdf
+2026-03-20 00:31:33,725 - WARNING - Skipping (already exists): Git-2.52.0-64-bit.exe
+2026-03-20 00:31:33,726 - WARNING - Skipping (already exists): Install League of Legends na.exe
+2026-03-20 00:31:33,726 - WARNING - Skipping (already exists): Install VALORANT.exe
+2026-03-20 00:31:33,727 - WARNING - Skipping (already exists): download (1).jpg
+2026-03-20 00:31:33,727 - WARNING - Skipping (already exists): download (2).jpg
+2026-03-20 00:31:33,727 - WARNING - Skipping (already exists): download (3).jpg
+2026-03-20 00:31:33,728 - WARNING - Skipping (already exists): download (4).jpg
+2026-03-20 00:31:33,728 - WARNING - Skipping (already exists): download (5).jpg
+2026-03-20 00:31:33,728 - WARNING - Skipping (already exists): download (6).jpg
+2026-03-20 00:31:33,728 - WARNING - Skipping (already exists): download.jpg
+2026-03-20 00:31:33,729 - WARNING - Skipping (already exists): DynamicPdfViewer.pdf
+2026-03-20 00:31:33,729 - WARNING - Skipping (already exists): Henry Winter aesthetic — The Secret History.jpg
+2026-03-20 00:31:33,729 - WARNING - Skipping (already exists): I-131 UHP Reparole Approval With EAD (1).pdf
+2026-03-20 00:31:33,730 - WARNING - Skipping (already exists): I-131 UHP Reparole Approval With EAD.pdf
+2026-03-20 00:31:33,730 - WARNING - Skipping (already exists): I-131.pdf
+2026-03-20 00:31:33,730 - WARNING - Skipping (already exists): Komaru Skyrim.jpg
+2026-03-20 00:31:33,731 - WARNING - Skipping (already exists): MN_HumanaExtend5000pdf.pdf
+2026-03-20 00:31:33,731 - WARNING - Skipping (already exists): Parole%20Fee%20Receipt%20Notice.pdf
+2026-03-20 00:31:33,731 - WARNING - Skipping (already exists): Resume.pdf
+2026-03-20 00:31:33,732 - WARNING - Skipping (already exists): Warrior's Art.jpg
+2026-03-20 00:31:33,732 - WARNING - Skipping (already exists): zanoh.jpg
